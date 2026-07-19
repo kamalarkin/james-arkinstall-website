@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">From complex signals to clear direction</title>
+  <desc id="desc">An abstract data illustration showing varied signals converging into one clear upward path.</desc>
+  <rect width="600" height="600" fill="#f3efe5"/>
+  <circle cx="300" cy="300" r="215" fill="none" stroke="#d8dcd4" stroke-width="2"/>
+  <circle cx="300" cy="300" r="150" fill="none" stroke="#d8dcd4" stroke-width="2" stroke-dasharray="5 12"/>
+  <path d="M96 418c82-4 114-82 184-86 77-5 89 61 152 34 39-17 50-56 72-113" fill="none" stroke="#142a2e" stroke-width="12" stroke-linecap="round"/>
+  <path d="m475 257 31-9 10 30" fill="none" stroke="#142a2e" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M112 176h76M112 202h43M112 228h60" stroke="#66b9ae" stroke-width="8" stroke-linecap="round"/>
+  <rect x="190" y="390" width="28" height="71" rx="6" fill="#7da9a2"/>
+  <rect x="232" y="364" width="28" height="97" rx="6" fill="#66b9ae"/>
+  <rect x="274" y="398" width="28" height="63" rx="6" fill="#9ccbc4"/>
+  <circle cx="97" cy="418" r="17" fill="#d8ed8e" stroke="#142a2e" stroke-width="7"/>
+  <circle cx="280" cy="332" r="17" fill="#d8ed8e" stroke="#142a2e" stroke-width="7"/>
+  <circle cx="433" cy="366" r="17" fill="#d8ed8e" stroke="#142a2e" stroke-width="7"/>
+  <circle cx="503" cy="253" r="17" fill="#d8ed8e" stroke="#142a2e" stroke-width="7"/>
+  <circle cx="392" cy="174" r="42" fill="#142a2e"/>
+  <path d="M372 175h40M392 155v40" stroke="#d8ed8e" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="151" cy="307" r="9" fill="#66b9ae"/>
+  <circle cx="190" cy="285" r="6" fill="#7da9a2"/>
+  <circle cx="224" cy="306" r="12" fill="#d8ed8e"/>
+  <circle cx="462" cy="451" r="8" fill="#66b9ae"/>
+</svg>
