@@ -4,3 +4,4 @@
 .portrait{display:block;width:100%;height:100%;object-fit:cover;object-position:center 34%}
 .about-mark img{display:block;width:100%;height:100%;object-fit:cover}
 .credentials a{background:var(--deep);color:white;padding:8px 12px;border-radius:3px;font-size:12px;font-weight:600;text-decoration:none;transition:background .2s ease}.credentials a:hover{background:#19504e}
+@media(max-width:560px){.proof-strip{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));overflow:visible}.proof-strip span{padding:14px 10px;white-space:normal;text-align:center;line-height:1.35}.proof-strip span+span:before{display:none}}
