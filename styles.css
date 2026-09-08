@@ -5,12 +5,4 @@
 .about-mark img{display:block;width:100%;height:100%;object-fit:cover}
 .credentials a{background:var(--deep);color:white;padding:8px 12px;border-radius:3px;font-size:12px;font-weight:600;text-decoration:none;transition:background .2s ease}.credentials a:hover{background:#19504e}
 @media(max-width:560px){.proof-strip{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));overflow:visible}.proof-strip span{padding:14px 10px;white-space:normal;text-align:center;line-height:1.35}.proof-strip span+span:before{display:none}}
-.brand-experience{padding:58px 0 10px;background:var(--paper)}
-.brand-experience .eyebrow{margin:0 0 28px;color:var(--muted)}
-.brand-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border-top:1px solid var(--line);border-left:1px solid var(--line)}
-.brand-wordmark{min-height:92px;padding:18px 14px;display:flex;align-items:center;justify-content:center;text-align:center;border-right:1px solid var(--line);border-bottom:1px solid var(--line);color:#627173;font:600 17px/1.15 var(--display);filter:grayscale(1);transition:color .2s ease,background .2s ease}
-.brand-wordmark:hover{color:var(--deep);background:var(--cream)}
-.princes,.napolina,.branston,.cawston{font-weight:800}.napolina{font-style:italic}.ucc{font-size:12px;letter-spacing:.11em;text-transform:uppercase}.pepsico{font-size:20px}.starbucks{font-size:14px;letter-spacing:.08em;text-transform:uppercase}.lloyds{font-size:13px}.formula-one{font-style:italic;font-weight:800}.fulham,.bel{font-size:14px}.o2{font-size:28px;font-weight:500}.microsoft{font-size:18px;font-weight:500}
-@media(max-width:850px){.brand-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
-@media(max-width:560px){.brand-experience{padding-top:42px}.brand-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.brand-wordmark{min-height:74px;padding:13px 8px;font-size:14px}.ucc{font-size:10px}.starbucks,.lloyds,.fulham,.bel{font-size:11px}.o2{font-size:24px}.microsoft{font-size:15px}}
 
