@@ -11,3 +11,4 @@ Before publishing:
 
 Positioning note:
 The site says James is available for independent consulting. It does not claim invented clients, projects, testimonials, or trading history. Career achievements are explicitly described as work completed in employed roles.
+
